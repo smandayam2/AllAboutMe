@@ -4,7 +4,7 @@ email: saketh.mandayam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a site all about me. Some of the information that will be included here will be 
   my social media handles, a picture of me, a brag sheet and so much more! 
-theme: minima
+theme: jekyll-theme-merlot
 # social links
 twitter_username: SockVIII # DO NOT include the @ character, or else the build will fail!
 github_username:  smandayam2 # DO NOT include the @ character, or else the build will fail!
