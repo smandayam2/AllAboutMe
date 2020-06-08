@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 theme: minima
 # social links
 twitter_username: SockVIII # DO NOT include the @ character, or else the build will fail!
+instagram_username: SockVIII
 github_username:  smandayam2 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
