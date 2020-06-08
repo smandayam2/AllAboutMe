@@ -6,6 +6,9 @@ This is a page all about me. Pretty interesting right....
 
 Here is some information about myself:
 I have two siblings, and older brother and a younger sister, as well as a pet poodle named Sandy. 
+
+![Sandy](https://raw.githubusercontent.com/smandayam2/AP-Comp-Sci-Project/master/Sandy.PNG)
+
 I attend school at East Brunswick High School in New Jersey. 
 
 I love sports, especially football and basketball, and my favorite teams are the Philadelphia 76ers and Eagles
